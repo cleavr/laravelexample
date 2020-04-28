@@ -67,7 +67,7 @@
         <div class="flex-center position-ref full-height">
             <div class="content">
                 <div class="title m-b-md">
-                    This is a basic Laravel web app
+                    This is a basic Laravel web app. Enjoy!
                 </div>
             </div>
         </div>
