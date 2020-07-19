@@ -69,7 +69,7 @@
                 <div class="title m-b-md">
                     This is a basic Laravel web app. Enjoy!
                 </div>
-                <div>{{$name}}</div>
+                <div class="title m-b-md">{{$name}}</div>
             </div>
         </div>
     </body>
