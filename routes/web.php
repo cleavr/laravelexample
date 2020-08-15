@@ -12,5 +12,8 @@
 */
 
 Route::get('/', function () {
+    \Illuminate\Support\Facades\Log::log("this is a log message woot");
+    \Illuminate\Support\Facades\Log::warning("this is a very cool warning message yayyy");
+
     return view('welcome')->withName(env('NAME'));
 });
